@@ -9,16 +9,16 @@
                     <div class="diachi">
                         <ul>
                             <li>
-                                <i class="bi bi-geo-alt-fill"></i> 9 trịnh văn bô , phương canh , ha noi
+                                <i class="bi bi-geo-alt-fill"></i> 
                             </li>
                             <li>
-                                <i class="bi bi-telephone-fill"></i> 0345479605
+                                <i class="bi bi-telephone-fill"></i>
                             </li>
                             <li>
-                                <i class="bi bi-youtube"></i> hoang204.yb
+                                <i class="bi bi-youtube"></i> 
                             </li>
                             <li>
-                                <i class="bi bi-instagram"></i> dungmullet.ig
+                                <i class="bi bi-instagram"></i> 
                             </li>
                         </ul>
                     </div>

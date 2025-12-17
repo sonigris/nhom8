@@ -4,7 +4,7 @@
             <div class="zek_page_banner zek_position">
                 <div class="zek_background wow fadeIn animated animated" data-wow-delay="500ms"
                     data-wow-duration="600ms"
-                    style="background-image: url(public/img/dior.jpg); visibility: visible; animation-duration: 600ms; animation-delay: 500ms; animation-name: fadeIn;">
+                    style="background-image: url(public/img/sach/banner1.jpg); visibility: visible; animation-duration: 600ms; animation-delay: 500ms; animation-name: fadeIn;">
                 </div>
                 <div class="zek_overlay"></div>
                 <div class="inner text-center wow fadeIn animated animated" data-wow-delay="500ms"
